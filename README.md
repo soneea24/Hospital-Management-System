@@ -1,7 +1,6 @@
 
 # Hospital Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
----
+![developer](https://img.shields.io/badge/Modified%20By%20%3A-Sonia%20Dhiman-blue)
 ## screenshots
 ### Homepage
 ![homepage snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/homepage.png?raw=true)
